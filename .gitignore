@@ -1,0 +1,6 @@
+# /controller/*
+# /resource/*
+# /database/data/*
+# /routes/*
+# .htaccess
+# configuration.php
